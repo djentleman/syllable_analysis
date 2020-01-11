@@ -41,7 +41,7 @@ rm -rf raw*
 
 The results of the analysis can be seen in the graph above - The x-axis is the syllable count of a sentence, and the y-axis is the frequency of that syllable count. It is clear that in general Japanese setences have a far higher syllable count than that of English sentences.
 
-以上のグラフ結果が見える。横軸は音節の数を表し、縦軸は音節数の頻度を表してる。一般的に、日本の文章は英語より音節が多いという結果ははっきり。
+以上のグラフ結果が見える。横軸は音節の数を表し、縦軸は音節数の頻度を表してる。一般的に、日本語の文章は英語より音節が多いという結果ははっきり。
 
 ### Syllable Count Ratios
 
@@ -63,3 +63,10 @@ The information density of spoken langage is related to the syllable count, howe
 Unlike the Comparison of syllable counts, the letter count comparison shows that the Japanese letter count is generally much lower than that of english. In other words the information density of written Japanese is much higher than that of English.
 
 音節数の比較と違って、英語より日本語の文字数の方が少ない。つまり、書き言葉というと日本語の情報密度は英語より非常に高い。
+
+
+### Conclusion
+
+When it comes to syllable count, Japanese has a higher syllable count, or less information per syllable than English. However when comparing letter count, Japanese is generally much less than English, this is likely due to kanji.
+
+音節数というと、日本語は大体英語より、音節が多くて情報が薄い。しかし文字数を比べたら、漢字のお陰で日本語は一般的に英語より少ない。
