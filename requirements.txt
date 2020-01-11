@@ -1,0 +1,5 @@
+nltk==3.4.5
+numpy==1.18.1
+pandas==0.25.3
+pykakasi==1.2
+jupyter==1.0.0
